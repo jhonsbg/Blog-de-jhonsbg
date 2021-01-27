@@ -3,3 +3,5 @@ Ya que estoy aprendiendo como usar Git y GitHub
 Gracias a Platzi
 
 Este seria el segundo cambio a este archivo
+
+El edito de .MD recomendado por Freddy es https://pandao.github.io/editor.md/en.html
